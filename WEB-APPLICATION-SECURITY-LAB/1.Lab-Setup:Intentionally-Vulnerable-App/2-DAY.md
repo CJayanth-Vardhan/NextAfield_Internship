@@ -11,7 +11,9 @@ This guide explains how to configure **Burp Suite** as an HTTP proxy and connect
 2. Navigate to the **Proxy** tab  
 3. Turn **Intercept ON**  
 
-📸 *Screenshot: Burp Suite proxy intercept enabled*
+<img width="1598" height="837" alt="image" src="https://github.com/user-attachments/assets/ea3f21b2-20e7-45ff-93ec-b5954283ee83" />
+
+---
 
 ---
 
@@ -25,7 +27,8 @@ This guide explains how to configure **Burp Suite** as an HTTP proxy and connect
    - **Port:** 8080  
 5. Enable **“Use this proxy server for all protocols”**  
 
-📸 *Screenshot: Firefox proxy configuration settings*
+<img width="759" height="688" alt="image" src="https://github.com/user-attachments/assets/a6870021-94b4-402e-b6a1-4938f20c1a28" />
+
 
 ---
 
@@ -40,8 +43,8 @@ This guide explains how to configure **Burp Suite** as an HTTP proxy and connect
 3. Click **View Certificates → Import**  
 4. Select the downloaded certificate  
 
-📸 *Screenshot: Burp certificate download page*  
-📸 *Screenshot: Firefox certificate import window*
+<img width="1718" height="795" alt="image" src="https://github.com/user-attachments/assets/7e93e126-54d2-405c-bda1-040994506f9c" />
+
 
 ---
 
@@ -53,7 +56,7 @@ This guide explains how to configure **Burp Suite** as an HTTP proxy and connect
 
 ✔️ The HTTP request should be captured successfully  
 
-📸 *Screenshot: HTTP request intercepted in Burp Suite*
+<img width="1597" height="477" alt="image" src="https://github.com/user-attachments/assets/b460a908-2177-40bb-8387-81a074a5f802" />
 
 ---
 
