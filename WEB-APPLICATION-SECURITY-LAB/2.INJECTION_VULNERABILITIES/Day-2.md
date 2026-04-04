@@ -8,7 +8,9 @@ The goal was to test how user input is handled and check if JavaScript code can 
 
 ## 🎯 Target
 - Application: OWASP Juice Shop  
-- URL: http://localhost:3000  
+- URL: http://localhost:3000
+
+<img width="1713" height="802" alt="Js-1" src="https://github.com/user-attachments/assets/431a2d48-5afa-4fa0-b261-252032964805" />
 
 ---
 
@@ -41,7 +43,9 @@ The goal was to test how user input is handled and check if JavaScript code can 
 
 ## ✅ Result
 - XSS vulnerability confirmed  
-- Application is not properly filtering input  
+- Application is not properly filtering input
+
+<img width="1715" height="796" alt="js-2" src="https://github.com/user-attachments/assets/4f0eb6a9-f0a5-4350-b36d-292d5d4ee21d" />
 
 ---
 
